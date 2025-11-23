@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del \"C:\\Users\\hp\\OneDrive\\Desktop\\emosup\\setup.bat\" \"C:\\Users\\hp\\OneDrive\\Desktop\\emosup\\run.bat\" \"C:\\Users\\hp\\OneDrive\\Desktop\\emosup\\start_api.bat\" \"C:\\Users\\hp\\OneDrive\\Desktop\\emosup\\start_api_server.bat\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
