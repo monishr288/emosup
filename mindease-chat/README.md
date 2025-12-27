@@ -104,7 +104,9 @@ http://localhost:5173
 ### Welcome screen
 <img width="1899" height="863" alt="image" src="https://github.com/user-attachments/assets/750c74bf-808b-487d-b198-a75b3bf08b21" />
 <img width="1893" height="855" alt="image" src="https://github.com/user-attachments/assets/5a5d0dbb-e61b-47a4-9569-38e8d54bc038" />
-### Light & Dark mode
+
+###  Light & Dark mode
+
 <img width="1876" height="909" alt="image" src="https://github.com/user-attachments/assets/d9ddee2b-b48e-4444-9740-92925e24c592" />
 <img width="1877" height="913" alt="image" src="https://github.com/user-attachments/assets/9f57065f-258e-4f91-b2ee-948523137b40" />
 
