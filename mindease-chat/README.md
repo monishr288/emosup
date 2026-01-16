@@ -4,7 +4,7 @@ MindEase is a React-based AI emotional support chat application designed to prov
 
 ### 🧠 Project Objective
 
-* The main goal of MindEase is to:
+#### The main goal of MindEase is to:
 
 * Reduce feelings of loneliness
 
@@ -47,6 +47,7 @@ MindEase is a React-based AI emotional support chat application designed to prov
 * Audio: MediaRecorder Web API
 
 ### 📂 Project Structure
+```
 mindease/
 ├── src/
 │   ├── components/
@@ -57,6 +58,7 @@ mindease/
 ├── index.html
 ├── package.json
 └── README.md
+```
 
 ### 🚀 How to Run the Project Locally
 
