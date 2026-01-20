@@ -428,6 +428,15 @@ function Chat() {
           MindEase is for emotional support only and not a substitute for
           professional help or emergency services.
         </p>
+        
+        {/* FOOTER PATH NOTE */}
+        <div className="footer-path-note">
+          <small>
+            Note: API key is valid for a limited time (typically 90 days). 
+            For production use, set up a secure backend to handle API calls.
+            Current endpoint: {import.meta.env.VITE_GEMINI_API_KEY ? "Gemini API" : "No API key configured"}
+          </small>
+        </div>
       </div>
     </>
   );
